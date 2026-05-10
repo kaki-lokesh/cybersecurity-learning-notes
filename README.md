@@ -1,6 +1,6 @@
-# Cybersecurity Learning Notes
+# Cybersecurity Learning 
 
-Daily documentation from my 60-day summer sprint (May 1 – June 30, 2026). 
+Weekly documentation from my 60-day summer sprint (May 1 – June 30, 2026). 
 
 ## Structure
 
@@ -14,12 +14,6 @@ Daily documentation from my 60-day summer sprint (May 1 – June 30, 2026).
 | Week 6 (Jun 5–11) | Project 1 — OSINT Threat Intelligence Tool | ⬜ |
 | Week 7 (Jun 12–18) | Project 2 — Professional Pentest Report | ⬜ |
 | Week 8 (Jun 19–30) | Docker + CI/CD Security + Portfolio Polish | ⬜ |
-
-## Rules
-
-- ✅ Minimum one commit every day
-- ✅ Every command I learn gets documented
-- ✅ Every error I hit gets documented with its fix
 
 ---
 
