@@ -12,7 +12,7 @@ Weekly documentation from my 60-day summer sprint (May 11 – July 5, 2026).
 | Week 4 (Jun 1–7) | OWASP Top 10 — SQLi, XSS, CSRF, Command Injection | ✅ |
 | Week 5 (Jun 8–14) | Pentest Methodology — THM Jr Pentester + First HTB Machine | ✅ |
 | Week 6 (Jun 15–21) | Project 1 — OSINT Threat Intelligence Tool | ✅ |
-| Week 7 (Jun 22–28) | Project 2 — Professional Pentest Report | ⬜ |
+| Week 7 (Jun 22–28) | Project 2 — Professional Pentest Report | ✅ |
 | Week 8 (Jun 29–Jul 5) | Docker + CI/CD Security + Portfolio Polish | ⬜ |
 
 ---
